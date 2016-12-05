@@ -7,14 +7,14 @@ git checkout -- <file>... to discard changes in working directory
 git status
 git diff
 git reset HEAD <file>... used to unstage
-git log --pretty=oneline
+git log --pretty=oneline # back_ward oldest
 
 back to history version
-git reset --hard HEAD
+git reset --hard HEAD  # commit_id
 git reset --hard HEAD^
 git reset --hard HEAD^^
 git HEAD~4
-git reflog
+git reflog # forward lastest
 
 string no use
 git is a distributed version control system
