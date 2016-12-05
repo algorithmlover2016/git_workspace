@@ -16,6 +16,10 @@ git reset --hard HEAD^^
 git HEAD~4
 git reflog # forward lastest
 
+difference bewteen checkout and reset
+git checkout -- filename # recovery filename from master
+git reset HEAD filename # unstage filename after add but not commit
+
 string no use
 git is a distributed version control system
 git is a free software distributed under the GPL.
