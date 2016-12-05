@@ -1,3 +1,6 @@
 git init
+git add filename
+git commit
+git commit -m "comment to describe the file function or something about it"
 git is a version control system
 git is a free software
