@@ -1,6 +1,7 @@
 command git 
 git init
 git add filename
+git rm filename # rm similar to add
 git commit
 git commit -m "comment to describe the file function or something about it"
 git checkout -- <file>... to discard changes in working directory
