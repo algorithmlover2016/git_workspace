@@ -28,3 +28,10 @@ git config --global user.email "xxx@xxx.com"
 string no use
 git is a distributed version control system
 git is a free software distributed under the GPL.
+
+push
+git remote add origin https://github.com/algorithmlover2016/git_workspace.git
+git push -u origin master
+git add filename
+git commit -m
+git push origin master
